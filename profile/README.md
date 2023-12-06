@@ -19,7 +19,7 @@ Aplicativo móvel para rastreamento e gestão das entregas em escolas estaduais 
   - Link do repositório: https://github.com/2023M6T6Inteli/grupo2
 
 - Grupo 3 - EduTrack
-  - Link do repositório: https://github.com/2023M6T6Inteli/grupo
+  - Link do repositório: https://github.com/2023M6T6Inteli/grupo3
 
 
 
