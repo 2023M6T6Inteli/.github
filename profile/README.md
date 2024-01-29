@@ -13,13 +13,13 @@ Aplicativo móvel para rastreamento e gestão das entregas em escolas estaduais 
 ## 💻 Integração, gerenciamento e análise de BIG DATA:
 
 - Grupo 1 - Seis é demais
-  - Link do repositório: https://github.com/2023M6T6Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M6T6Inteli-grupo1
 
 - Grupo 2 - 
-  - Link do repositório: https://github.com/2023M6T6Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M6T6Inteli-grupo2
 
 - Grupo 3 - EduTrack
-  - Link do repositório: https://github.com/2023M6T6Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M6T6Inteli-grupo3
 
 
 
